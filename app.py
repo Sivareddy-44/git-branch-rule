@@ -1,5 +1,5 @@
-num1 = 100
-num2 = 200
+num1 = 1000
+num2 = 2000
 total = num + num
 
 print("The sum is:", total)
