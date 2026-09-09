@@ -1,5 +1,5 @@
-num1 = 100
-num2 = 200
-total = num + num
+num1 = 1000
+num2 = 2000
+total = num1 + num2
 
-print("The sum is:", total)
+print("The sum is:", total) siva reddy
